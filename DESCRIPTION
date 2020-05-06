@@ -1,0 +1,10 @@
+Package: ecosmldevtest2
+Title: ecosmldevtest2
+Version: 0.0.1
+Authors@R: person("awalther", "", email = "",
+                  role = c("aut", "cre"))
+Description: one sentence summary of package
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true
+RoxygenNote: 6.1.0
